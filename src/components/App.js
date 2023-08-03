@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import { Routes, Route } from "react-router-dom";
+import React, { Component } from 'react';
+import { Routes, Route } from "react-router-dom"; 
 import AddAlbum from './AddAlbum';
 import AlbumList from './AlbumList';
 import UpdateAlbum from './UpdateAlbum';
